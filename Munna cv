@@ -1,36 +1,30 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <title>Munna's CV</title>
     <style>
         body {
             font-family: Arial;
-        }
-        
+        }  
         .container {
             width: 700px;
             margin: 30px auto;
             background-color: rgb(131, 188, 70);
             padding: 20px;
         }
-        
         h1 {
             margin-bottom: 5px;
         }
-        
         h2 {
             border-bottom: 1px solid #cccccc;
             padding-bottom: 5px;
         }
-        
         p,
         li {
             line-height: 1.6;
         }
     </style>
 </head>
-
 <body>
     <div class="container">
         <h1>Contact Information</h1>
@@ -65,5 +59,4 @@
         </p>
     </div>
 </body>
-
 </html>
